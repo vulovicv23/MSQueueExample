@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSQue.SenderApp", "MSQue.SenderApp\MSQue.SenderApp.csproj", "{8FE74FDE-F39E-404B-A132-07448D9617A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSQue.ReaderApp", "MSQue.ReaderApp\MSQue.ReaderApp.csproj", "{73246053-4421-4DCA-8962-2A1219BF3413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSQue.Models", "MSQue.Models\MSQue.Models.csproj", "{1229C1E8-D094-4748-9AE5-4BB8ABED70A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE74FDE-F39E-404B-A132-07448D9617A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE74FDE-F39E-404B-A132-07448D9617A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE74FDE-F39E-404B-A132-07448D9617A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE74FDE-F39E-404B-A132-07448D9617A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73246053-4421-4DCA-8962-2A1219BF3413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73246053-4421-4DCA-8962-2A1219BF3413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73246053-4421-4DCA-8962-2A1219BF3413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73246053-4421-4DCA-8962-2A1219BF3413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1229C1E8-D094-4748-9AE5-4BB8ABED70A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1229C1E8-D094-4748-9AE5-4BB8ABED70A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1229C1E8-D094-4748-9AE5-4BB8ABED70A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1229C1E8-D094-4748-9AE5-4BB8ABED70A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
